@@ -1,9 +1,9 @@
 # Proyecto final UTN 
 Este proyecto es el trabajo práctico final del curso Herramientas Básicas para el análisis de datos de UTN BA virtual. 
 ## Autor/Curso/Cohorte/
-Autora: Betina Williner
-Curso: Herramientas Básicas para el Análisis de Datos
-Cohorte: segundo semestre 2026
+1. Autora: Betina Williner bwilliner65@gmail.com 
+2. Curso: Herramientas Básicas para el Análisis de Datos
+3. Cohorte: segundo semestre 2026
 ## Objetivo
 Estudiar en qué medida el rendimiento en el examen final de los estudiantes que forman parte de la base de datos estudiada está determinado por su entorno sociofamiliar o por sus características personales
 ## Data set
