@@ -10,6 +10,8 @@ Estudiar en qué medida el rendimiento en el examen final de los estudiantes que
 La base fue extraída en el siguiente link https://www.kaggle.com/datasets/ayeshaseherr/student-performance?select=StudentPerformanceFactors.csv 
 Este data set tiene información sobre el entorno familiar del estudiante (nivel socioeconómico familiar, educación de los padres, etc) y sobre características personales (horas de estudio por semana, actividad física, asistencia a clase, etc.)
 ## Pasos realizados
-Comencé con la exploración de los datos en Colab. En ese entorno hice limpieza del archivo original y realicé los gráficos y tablas necesarias para responder la pregunta inicial. Luego descargué el data set limpio y lo llevé a Power BI para realizar el dashboard
+Comencé con la exploración de los datos en Colab. En ese entorno hice limpieza del archivo original y realicé los gráficos y tablas necesarias para responder la pregunta inicial. Luego descargué el data set limpio y lo llevé a Power BI para realizar el dashboard 
+resultados/DashboardWilliner.pbix
 ## Instrucciones de uso
 En la carpeta cuadernos se encuentra el archivo en formato ipynb en el cual está realizado todo el análisis en base al archivo StudentsPerformanceFactors de extensión csv que se encuentra en la carpeta datos. En la carpeta resultados hay un dashboard que se basa en el data set limpio que se encuentra en la carpeta datos
+
