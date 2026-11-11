@@ -14,4 +14,5 @@ Comencé con la exploración de los datos en Colab. En ese entorno hice limpieza
 resultados/DashboardWilliner.pbix
 ## Instrucciones de uso
 En la carpeta cuadernos se encuentra el archivo en formato ipynb en el cual está realizado todo el análisis en base al archivo StudentsPerformanceFactors de extensión csv que se encuentra en la carpeta datos. En la carpeta resultados hay un dashboard que se basa en el data set limpio que se encuentra en la carpeta datos
-
+notebooks/TrabajoFinal(Williner).ipynb
+ 
